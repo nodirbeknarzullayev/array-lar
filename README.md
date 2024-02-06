@@ -1,0 +1,2 @@
+# array-lar
+Array funksiyalari
